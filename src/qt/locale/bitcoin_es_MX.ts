@@ -239,7 +239,7 @@
     <name>BitcoinGUI</name>
     <message>
         <source>Sign &amp;message...</source>
-        <translation>Sign &amp;mensaje</translation>
+        <translation>Firmar &amp;mensaje</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -966,7 +966,7 @@
     </message>
     <message>
         <source>Received with</source>
-        <translation>Recivido con</translation>
+        <translation>Recibido con</translation>
     </message>
     <message>
         <source>Sent to</source>
@@ -1029,7 +1029,7 @@
     </message>
     <message>
         <source>Received with</source>
-        <translation>Recivido con</translation>
+        <translation>Recibido con</translation>
     </message>
     <message>
         <source>Sent to</source>
